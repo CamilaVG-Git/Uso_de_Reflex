@@ -45,3 +45,19 @@ Uso correcto de Reflex (20%)
 Creatividad y personalización (20%)
 Calidad de la documentación (20%)
 Correcta implementación de GitHub y README (10%)
+
+
+Más info:
+
+--Requisitos--
+- Python 3.10+
+
+--Instalación--
+pip install reflex
+
+--Ejecutar el proyecto--
+reflex init
+reflex run
+
+--Resultado--
+La app se ejecuta en http://localhost:3000
